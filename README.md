@@ -1,11 +1,10 @@
 # 🏦 Banking System Project
 
-Welcome to the Banking System project! This is a Java-based application which allows you to manage user accounts, perform transactions, credits and debits and ensure the security of financial data.
+Welcome to my Banking System project! This is a Java-based application which allows you to manage user accounts, perform transactions, credits and debits and ensure the security of financial data.
 
 # 📂 Project Structure
 - 'src/': Contains the Java source code files.
 - 'database/': Includes SQL scripts for database setup.
-- 'screenshots/': Screenshots of the application in action.
 
 # 📦 Features
 - User Registration & Login
